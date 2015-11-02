@@ -12,3 +12,6 @@ function_to_trace(the_function_you_will_track)
 ~~~
 
 This will print function calls/returns in the console!
+
+## Examples
+- python2/example.py

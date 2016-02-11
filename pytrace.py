@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+""" Pytrace, a tool to trace function calls/returns.
+
+    Author: Julien Delplanque (julien.delplanque@live.be)
+    Repository: https://github.com/juliendelplanque/pytrace
+    License: GNU GENERAL PUBLIC LICENSE Version 2
+"""
 
 import sys
 from inspect import getargvalues

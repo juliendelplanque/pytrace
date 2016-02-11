@@ -1,7 +1,7 @@
 # pytrace
 A function calls/returns tracker for Python.
 
-[![asciicast](https://asciinema.org/a/36177.png =350x)](https://asciinema.org/a/36177)
+[![asciicast](https://asciinema.org/a/36177.png)](https://asciinema.org/a/36177)
 
 ## How to use me?
 Simply download the script pytrace.py and put it in your project

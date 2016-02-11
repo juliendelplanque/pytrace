@@ -1,11 +1,15 @@
 # pytrace
 A function calls/returns tracker for Python.
 
-[![asciicast](https://asciinema.org/a/36177.png)](https://asciinema.org/a/36177)
+[![asciicast](https://asciinema.org/a/36177.png =350x)](https://asciinema.org/a/36177)
 
 ## How to use me?
 Simply download the script pytrace.py and put it in your project
 directory.
+~~~
+# In your project directory:
+$ wget https://raw.githubusercontent.com/juliendelplanque/pytrace/master/pytrace.py 
+~~~
 
 Then add the following lines in the file where is located the function
 you want to trace.
@@ -17,9 +21,9 @@ function_to_trace(the_function_you_will_track)
 This will print function calls/returns in the console!
 
 ## Examples
-See examples.py
+See **examples.py**
 
-## What if your terminal does not support UTF-8?
+## What if your terminal does not supports UTF-8?
 You can change the strings used to represent function calls/returns
 using **set_call_string** and **set_return_string**.
 
